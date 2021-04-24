@@ -1,5 +1,5 @@
 # CalendarApp
-A planning application made be ME, referenced from "https://www.howkteam.vn/" - Howkteam
+A planning application made by ME, referenced from "https://www.howkteam.vn/" - Howkteam
 
 # Requirement ( Yêu cầu )
 Vi : Do sử dụng .NET Framework nên hệ điều hành Windows 10 là lựa chọn tốt nhất.  
